@@ -3,5 +3,7 @@ This is an FTDI board used to program ESP32 designs. The pushbuttons on the bott
 
 ![top](https://user-images.githubusercontent.com/4991664/33353021-1010910e-d482-11e7-8f67-c701f2835003.JPG)
 
+![bottom](https://user-images.githubusercontent.com/4991664/33353068-49deef7a-d482-11e7-8996-1f889e189342.JPG)
+
 
 
